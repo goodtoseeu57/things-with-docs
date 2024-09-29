@@ -88,3 +88,5 @@ Use these HEX color codes for a consistent look:
 **Ready to revolutionize your deployment process? [Get started now!](https://example.com/get-started)**
 
 </div>
+
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests
