@@ -52,3 +52,6 @@ Use these HEX color codes for a consistent look:
 **Ready to revolutionize your deployment process? [Get started now!](https://example.com/get-started)**
 
 </div>
+
+> [!QUESTION] Consider this…
+> How do we invalidate the cache?
