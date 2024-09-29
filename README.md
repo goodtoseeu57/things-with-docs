@@ -16,6 +16,24 @@
 > [!QUESTION] Consider this…
 > How do we invalidate the cache?
 
+```json
+   // code for coloring
+```
+
+```html
+// code for coloring
+```
+
+```js
+console.log("test");
+```
+
+```css
+// code for coloring
+```
+
+// etc.
+
 # 🚀 Deployment Options
 
 ## 🌟 Features
