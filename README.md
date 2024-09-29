@@ -13,6 +13,9 @@
 > [!CAUTION]
 > Negative potential consequences of an action.
 
+> [!QUESTION] Consider this…
+> How do we invalidate the cache?
+
 # 🚀 Deployment Options
 
 ## 🌟 Features
